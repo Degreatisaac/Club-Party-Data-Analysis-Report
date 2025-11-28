@@ -1,4 +1,4 @@
-# -Club-Party-Data-Analysis-Report
+# Club-Party-Data-Analysis-Report
 This repository contains the summary and key insights derived from the Club Party Data Analysis, providing a comprehensive view of operational performance, revenue generation, and customer spending habits. The goal is to identify high-value events, profitable club sections, and critical demographic spending trends to inform future marketing and staffing strategies.
 
 # Revenue & Event Performance Analysis
